@@ -27,7 +27,7 @@ Framework ini dirancang memiliki performa secepat **Gin**, kemudahan instalasi *
 
 Siapkan terminal ruang kerja Anda, jalankan *go-getter* sakti berikut:
 ```bash
-go get -u github.com/bintang/go-jomb
+go get -u github.com/alfalaq12/Go-Jomb
 ```
 
 ---
